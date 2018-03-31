@@ -1,0 +1,20 @@
+﻿{
+  "google": {
+    "appName": "stresspointsgen",
+    "sheetId": "QLKLOUSXFqCLIhctiohkG91OlU0Lo1M3k7mUGIMJ"
+  },
+  "strava": {
+    "token": "c7csyrmtp7j8emoytx3wbeevqthpl2y2n2vh2dbb"
+  },
+  "athlete": {
+    "weight": 69.5,
+    "height": 1.75,
+    "minHeartRate": 45.0,
+    "maxHeartRate": 200.0,
+    "runFTHeartRate": 165.3,
+    "bikeFTHeartRate": 141.6,
+    "runFTPace": "3:45",
+    "swimFTPace": "1:44",
+    "bikeFTPower": 208.05
+  }
+}
